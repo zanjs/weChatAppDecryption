@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "base64-js": "^1.2.0",
+    "crypto": "^0.0.3",
+    "js-base64": "^2.1.9"
+  }
+}
